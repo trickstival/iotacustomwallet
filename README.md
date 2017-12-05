@@ -1,6 +1,6 @@
-# Quasar App
+# Quasar App - IOTA Custom Wallet
 
-> A Quasar project
+> My Custom IOTA Implementation of a wallet under development
 
 ## Build Setup
 
